@@ -12,11 +12,11 @@
 ![Procesamiento local](https://img.shields.io/badge/Procesamiento-100%25%20local-2E7D32)
 ![Licencia](https://img.shields.io/badge/Licencia-Propietaria-red)
 
-Un producto de **Marvaq** · [hello@marvaq.com](mailto:hello@marvaq.com)
+Un producto de **xAutolution** · [contact@xautolution.com](mailto:contact@xautolution.com)
 
-### [⬇️ Descargar xExtracta®](https://xextracta.marvaq.com/)
+### [⬇️ Descargar xExtracta®](https://www.xautolution.com/xextracta/)
 
-<sub>**xExtracta®** es una marca registrada de Marvaq ante el INPI (Argentina).</sub>
+<sub>**xExtracta®** es una marca registrada ante el INPI (Argentina).</sub>
 
 </div>
 
@@ -178,6 +178,12 @@ xExtracta reconoce el emisor solo:
 |---|---|
 | 🟢 **Neuquén** (BPN) | Resumen mensual de cuenta corriente en pesos del Banco Provincia del Neuquén. La columna de débito/crédito se lee por posición y se **verifica contra el saldo que imprime el banco en cada fila**. |
 
+**Novedades de la versión 3.2.0:**
+
+| | |
+|---|---|
+| **Correcciones y ajustes** | Actualización de datos de contacto y enlaces, y mejoras menores. |
+
 **Novedades de la versión 3.1.3:**
 
 | | |
@@ -214,7 +220,7 @@ xExtracta reconoce el emisor solo:
 
 | | |
 |---|---|
-| **Términos y privacidad actualizados** | La primera vez que abras la app después de actualizar, te pide aceptar los [Términos y Condiciones](https://xextracta.marvaq.com/terms.html) y la [Política de Privacidad](https://xextracta.marvaq.com/privacy.html) vigentes. |
+| **Términos y privacidad actualizados** | La primera vez que abras la app después de actualizar, te pide aceptar los [Términos y Condiciones](https://www.xautolution.com/xextracta/terms) y la [Política de Privacidad](https://www.xautolution.com/xextracta/privacy) vigentes. |
 | **Correcciones y ajustes** | Correcciones menores y mejoras en los tiempos de espera de conexión. |
 
 **Novedades de la versión 3.0.0:**
@@ -272,13 +278,13 @@ xExtracta reconoce el emisor solo:
 
 > 💡 **No hace falta escribir el nombre exacto de la carpeta.** xExtracta reconoce las formas en que la gente los escribe: `Nacion`, `Provincia`, `BIP`, `Frances`, `MP`, `Mercadopago`, `HSBC`, `Galicia más`, `BPN`, `Neuquen`… y tolera acentos, el "Banco" adelante y errores de tipeo leves. La lista completa de nombres aceptados está en el botón **Bancos** de la aplicación.
 
-> ¿Falta tu banco? Lo incorporamos: enviá 2–3 extractos PDF de muestra a [hello@marvaq.com](mailto:hello@marvaq.com).
+> ¿Falta tu banco? Lo incorporamos: enviá 2–3 extractos PDF de muestra a [contact@xautolution.com](mailto:contact@xautolution.com).
 
 ---
 
 ## ⬇️ Descarga e instalación
 
-1. Descargá el instalador desde **[xextracta.marvaq.com](https://xextracta.marvaq.com/)**.
+1. Descargá el instalador desde **[www.xautolution.com/xextracta](https://www.xautolution.com/xextracta/)**.
 2. Ejecutá **`xExtracta-Setup.exe`** y seguí los pasos del asistente de instalación.
 3. Una vez instalado, abrí **xExtracta** desde el acceso directo en el escritorio o el menú Inicio.
 4. **Requisitos:** Windows 10 u 11 (64 bits).
@@ -331,22 +337,22 @@ Abrí **xExtracta**, activá tu licencia (o pedí la prueba gratuita) y seguí l
 - 🔑 Las **contraseñas de los PDF** se usan de manera transitoria, solo para abrir el archivo durante el procesamiento: **no se almacenan ni se transmiten**.
 - 📡 Para validar y administrar la licencia, la aplicación transmite **únicamente datos de licencia** (la clave, un identificador técnico del equipo y la versión de la app) y, al pedir prueba o suscripción, tu **nombre y correo**. En ningún caso viaja el contenido de los extractos ni de los resúmenes. Si desde **Soporte** decidís enviarnos los registros técnicos, viajan datos técnicos que pueden incluir nombres de archivos, nunca los PDF ni sus contraseñas.
 - 🤖 xExtracta **no usa inteligencia artificial** para leer tus extractos ni para sugerir la imputación: funciona con reglas propias, en tu computadora.
-- 🧾 El tratamiento de datos se realiza conforme a la **Ley 25.326** de Protección de Datos Personales (Argentina), bajo el control de la **Agencia de Acceso a la Información Pública (AAIP)**. Podés ejercer tus derechos de acceso, rectificación y supresión escribiendo a [hello@marvaq.com](mailto:hello@marvaq.com). El detalle está en la [Política de Privacidad](https://xextracta.marvaq.com/privacy.html) y los [Términos y Condiciones](https://xextracta.marvaq.com/terms.html).
+- 🧾 El tratamiento de datos se realiza conforme a la **Ley 25.326** de Protección de Datos Personales (Argentina), bajo el control de la **Agencia de Acceso a la Información Pública (AAIP)**. Podés ejercer tus derechos de acceso, rectificación y supresión escribiendo a [contact@xautolution.com](mailto:contact@xautolution.com). El detalle está en la [Política de Privacidad](https://www.xautolution.com/xextracta/privacy) y los [Términos y Condiciones](https://www.xautolution.com/xextracta/terms).
 
 ---
 
 ## 📄 Licencia
 
-**Software propietario.** © Marvaq. Todos los derechos reservados.
+**Software propietario.** © xAutolution. Todos los derechos reservados.
 Protegido por la **Ley 11.723** de Propiedad Intelectual (Argentina). Prohibida su reproducción, distribución, ingeniería inversa o reventa sin autorización expresa del titular.
 
-**xExtracta® es una marca registrada** de Marvaq ante el **Instituto Nacional de la Propiedad Industrial (INPI)** de la República Argentina. El uso del nombre, el logo o cualquier signo confundible con la marca requiere autorización expresa y por escrito del titular. Nada de lo publicado en este repositorio concede licencia alguna sobre la marca.
+**xExtracta® es una marca registrada** ante el **Instituto Nacional de la Propiedad Industrial (INPI)** de la República Argentina. El uso del nombre, el logo o cualquier signo confundible con la marca requiere autorización expresa y por escrito del titular. Nada de lo publicado en este repositorio concede licencia alguna sobre la marca.
 
 ---
 
 ## 📬 Contacto
 
-**Marvaq** — [hello@marvaq.com](mailto:hello@marvaq.com) · WhatsApp [+54 2964 574351](https://wa.me/5492964574351)
+**xAutolution** — [contact@xautolution.com](mailto:contact@xautolution.com) · WhatsApp [+54 2964 574351](https://wa.me/5492964574351)
 
 También desde el botón **Soporte** dentro de la aplicación.
 
